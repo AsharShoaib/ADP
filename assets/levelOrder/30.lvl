@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1400" height="780">
+
+	<entity x="300" y="7" stack="4" type="platform"/>
+
+
+	<entity x="57" y="53" stack="1" type="pyramidblue7"/>	
+	<entity x="57" y="91" stack="1" type="pyramidpink6"/>	
+	<entity x="57" y="129" stack="1" type="pyramidpink5"/>	
+	<entity x="57" y="167" stack="1" type="pyramidpink4"/>	
+	<entity x="57" y="205" stack="1" type="pyramidpink3"/>
+	<entity x="57" y="243" stack="1" type="pyramidpink2"/>	
+	<entity x="57" y="290" stack="1" type="pyramidpink1"/>
+
+	<entity x="171" y="53" stack="2" type="pyramidpink7"/>	
+	<entity x="171" y="91" stack="2" type="pyramidblue6"/>	
+	<entity x="171" y="129" stack="2" type="pyramidblue5"/>	
+	<entity x="171" y="167" stack="2" type="pyramidblue4"/>	
+	<entity x="171" y="205" stack="2" type="pyramidblue3"/>
+	<entity x="171" y="243" stack="2" type="pyramidblue2"/>	
+	<entity x="171" y="290" stack="2" type="pyramidblue1"/>
+	
+
+	<entity x="627" y="53" stack="6" type="pyramidred7"/>	
+	<entity x="627" y="91" stack="6" type="pyramidorange6"/>	
+	<entity x="627" y="129" stack="6" type="pyramidorange5"/>	
+	<entity x="627" y="167" stack="6" type="pyramidorange4"/>	
+	<entity x="627" y="205" stack="6" type="pyramidorange3"/>
+	<entity x="627" y="243" stack="6" type="pyramidorange2"/>	
+	<entity x="627" y="290" stack="6" type="pyramidorange1"/>
+
+
+	<entity x="741" y="53" stack="7" type="pyramidorange7"/>	
+	<entity x="741" y="91" stack="7" type="pyramidred6"/>	
+	<entity x="741" y="129" stack="7" type="pyramidred5"/>	
+	<entity x="741" y="167" stack="7" type="pyramidred4"/>	
+	<entity x="741" y="205" stack="7" type="pyramidred3"/>
+	<entity x="741" y="243" stack="7" type="pyramidred2"/>	
+	<entity x="741" y="290" stack="7" type="pyramidred1"/>
+
+	
+	
+</level>
+

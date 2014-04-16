@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1400" height="780">
+
+	
+	<entity x="400" y="4" stack="5" type="platform"/>	
+
+	<entity x="171" y="53" stack="2" type="pyramidgreen3"/>	
+	<entity x="171" y="91" stack="2" type="pyramidyellow2"/>
+	<entity x="171" y="138" stack="2" type="pyramidyellow1"/>
+
+	<entity x="399" y="53" stack="4" type="pyramidred4"/>	
+	<entity x="399" y="100" stack="4" type="pyramidred1"/>
+	
+	
+	<entity x="513" y="53" stack="5" type="pyramidgreen4"/>	
+	<entity x="513" y="91" stack="5" type="pyramidyellow3"/>	
+	<entity x="513" y="129" stack="5" type="pyramidgreen2"/>
+	<entity x="513" y="167" stack="5" type="pyramidred3"/>	
+	<entity x="513" y="205" stack="5" type="pyramidred2"/>
+	
+
+	<entity x="741" y="53" stack="7" type="pyramidyellow4"/>	
+	<entity x="741" y="91" stack="7" type="pyramidblue3"/>	
+	<entity x="741" y="129" stack="7" type="pyramidblue2"/>
+	<entity x="741" y="176" stack="7" type="pyramidorange1"/>
+	<entity x="741" y="223" stack="7" type="pyramidblue4"/>
+	
+	<entity x="627" y="53" stack="6" type="pyramidblue1"/>
+	<entity x="627" y="100" stack="6" type="pyramidorange2"/>	
+	<entity x="627" y="139" stack="6" type="pyramidorange3"/>	
+	<entity x="627" y="178" stack="6" type="pyramidorange4"/>
+	<entity x="627" y="225" stack="6" type="pyramidgreen1"/>
+
+	
+	
+</level>
+
