@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="1400" height="780">	
+
+	<entity x="130" y="53" type="pyramid4"/>
+	<entity x="130" y="91" type="pyramid3"/>	
+	<entity x="130" y="129" type="pyramid2"/>	
+	<entity x="130" y="176" type="pyramid1"/>
+	<entity x="3" y="4" type="platform"/>
+	
+</level>
+
