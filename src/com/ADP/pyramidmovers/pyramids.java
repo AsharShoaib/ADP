@@ -8,7 +8,7 @@ import org.andengine.opengl.vbo.VertexBufferObjectManager;
 
 public class pyramids extends Sprite {
 	 private int mWeight;
-	    private Stack<?> mStack; //this represents the stack that this ring belongs to
+	    private Stack<?> mStack; //this represents the stack that this pyramid belongs to
 	    private Sprite platform;
 	    private int color;
 	    
